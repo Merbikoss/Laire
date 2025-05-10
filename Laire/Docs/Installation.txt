@@ -1,0 +1,46 @@
+	presented by:
+	LAIRE DOCS and Mertbikoss (The developer)
+
+	Designed for Laire Alpha 1.1 and later
+
+	----- INSTALLATION -----
+
+ 1 - Make sure that you have a UNIX-like operating system.
+
+ 2 - Make sure that you have Java 23 or newer, and you set
+ your JAVA_HOME variables correctly.
+
+ 3 - Make sure you didn't install Java with a package
+ manager. Follow the JAVA CONFIGURATION manual.
+
+	----- JAVA CONFIGURATION -----
+
+ (WARNING: Everything said here is about UNIX-like operating systems.
+ DO NOT TRY WITH WINDOWS!)
+
+ Install JDK 23 or higher from Adoptium or Oracle as tar.gz
+ binaries. Go to the home directory, and create a folder
+ called "JavaHome" or something similar that is about Java Home.
+ Then, extract the binary into this directory. Copy the
+ location of the folder and create a variable called JAVA_HOME.
+ Paste this into your shell configuration file:
+ JAVA_HOME="(ENTER LOCATION HERE)"
+ PATH=$JAVA_HOME/bin:$PATH
+ Now we added the Java Home path to the system variables.
+ Test your new Java with running java --version.
+ If it doesn't work, you can remove the given code from
+ your shell configuration and try using the package manager
+ Java instead.
+
+ So, it looks like you've already extracted the Laire archive
+ file. Laire is only packaged as source form, because of the
+ cross-platform nature of Java, the language that Laire was
+ written on.
+
+ TLDR, you need to compile it. You can compile Laire by run-
+ ning the compile.sh shell script. Trust me, it only takes
+ maximum 1 second, also it starts Laire at the same time.
+ 
+ And? Nothing. Your setup is probably complete (except the
+ Laire session setup) Enjoy your new Laire session!
+ 

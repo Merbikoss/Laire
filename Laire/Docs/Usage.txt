@@ -1,0 +1,42 @@
+	
+	-- LAIRE DOCS --
+
+ -- GENERAL WARNINGS --
+
+ Laire is NOT an operating system. It is not
+ capable of running complex operations like
+ Linux, macOS or Windows.
+
+ Laire is a platform and evironment for
+ terminal applications.
+
+---------------------------------------------
+
+ -- COMMANDS --
+
+aman - AppManager. It lists all hardcoded apps
+of Laire and runs them.
+
+help - A very short help page of Laire.
+
+laida - Shows Laire diagnostics.
+
+quit - Obviously, it closes the program.
+
+clear - clears the terminal
+
+---------------------------------------------
+
+ -- PROBLEMS --
+ 
+ Problems can occur when you did'nt looked up
+ the Installation document.
+
+ Make sure that you have the required things.
+ 
+---------------------------------------------
+
+	Bye!
+ 
+ - Mertbikoss
+

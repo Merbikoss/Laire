@@ -1,0 +1,15 @@
+Laire Changelogs (Since Alpha 1.2 or Laire 1.2)
+A means Alpha.
+Distrobution means modified Laire code that is paid
+or free of cost that is unrelated to the Laire project.
+
+A 1.2 - Apps: Random Curse Generator and LOffice Formy added.
+A 1.2.1 - Now > added into the front of inputs in the general terminal.
+A 1.2.2 - AppManager UI was polished.
+A 1.2.3 - LoginManager UI was polished.
+A 1.2.4 - The foundations for Key System for Laire-Based Distrobutions added.
+A 1.2.5 - KSLBD Keys have been added
+1.2.6 - Keys changed a little
+1.2.7 - Clock app added and Credits app was polished, hexadecimal key generation added.
+1.2.8 - Boredom app added. Now Laire can create needed files without needing them to exist,
+making it possible for Laire to create these files with the installation.
